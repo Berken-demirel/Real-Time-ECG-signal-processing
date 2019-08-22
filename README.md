@@ -22,4 +22,8 @@ For plotting library, qcustomplot is used.  [One of the best data visualization 
 
 ## Run the Example from .exe file
 
-Downloand the .exe file, Run the ECG.exe
+Downloand the .exe file, Run the ECG.exe. Follow the images with order 
+
+Click the Read from file
+
+![](images/Welcome.png)
