@@ -33,3 +33,5 @@ Downloand the .exe file, Run the ECG.exe. Follow the images with order
 ![](images/Welcome_2.png)
 
 3- Press Read button and Magic happens 
+
+![](images/Final.png)
