@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>img/medit_logo.png</file>
+    </qresource>
+</RCC>
