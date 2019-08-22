@@ -24,6 +24,12 @@ For plotting library, qcustomplot is used.  [One of the best data visualization 
 
 Downloand the .exe file, Run the ECG.exe. Follow the images with order 
 
-Click the Read from file
+1-Click the Read from file
 
 ![](images/Welcome.png)
+
+2-Click Browse, select the csv file in Examples. Enter the sampling rate as shown.
+
+![](images/Welcome_2.png)
+
+3- Press Read button and Magic happens 
