@@ -47,4 +47,6 @@ This example only demonstrates the feature of reading from file. The program is 
 
  The program is also processing signal on real-time by serial port. The default communication with serial port is Big Endian, if anyone wants to change the way of communicating, it can be done by just changing the readData function, the rest of the program works same.
  
+ When the program runs, it seems like that
  
+ ![](imahes/gif2.gif)
