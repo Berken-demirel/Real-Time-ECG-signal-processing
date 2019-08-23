@@ -49,4 +49,4 @@ This example only demonstrates the feature of reading from file. The program is 
  
  When the program runs, it seems like that
  
- ![](imahes/gif2.gif)
+ ![](images/gif2.gif)
