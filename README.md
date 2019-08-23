@@ -1,4 +1,4 @@
-# Iroh
+# Real-Time ECG
 
 # Project Title
 
@@ -50,3 +50,8 @@ This example only demonstrates the feature of reading from file. The program is 
  When the program runs, it seems like that
  
  ![](images/gif2.gif)
+ 
+ 
+ Real-time option has also different features from reading file, you can save the three different data type(Raw data; QT, QRS, PT durations) to directory where you want to save.
+ 
+
