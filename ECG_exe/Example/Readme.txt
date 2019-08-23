@@ -1,0 +1,1 @@
+To open the example, run the ECG.exe. Choose the read from file.Click Browse then choose Raw_data.csv.Enter 329 to sampling rate,finally click the Read button.
