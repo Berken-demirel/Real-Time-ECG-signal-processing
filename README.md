@@ -1,8 +1,8 @@
-# Real-Time ECG
+# Real-Time ECG   
 
 # Project Title
 
-Signal processing on Real-time ECG signals using C++ in QT.
+Signal processing on Real-time ECG signals using C++ in QT.     [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 ## Getting Started
 
